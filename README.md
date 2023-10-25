@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -58,7 +56,7 @@ Code snippets to be proud of:
 
 ### Useful resources
 
-- Bootstrap documentation: [https://getbootstrap.com/] - This helped me to use Bootstrap.
+- Bootstrap documentation: https://getbootstrap.com/ - This helped me to use Bootstrap.
 
 ## Author
 
