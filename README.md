@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/anankaaa/QR-code]
-- Live Site URL: [https://anankaaa.github.io/QR-code/]
+- Solution URL: https://github.com/anankaaa/QR-code
+- Live Site URL: https://anankaaa.github.io/QR-code/
 
 ## My process
 
@@ -58,7 +58,7 @@ Code snippets to be proud of:
 
 ### Useful resources
 
-- [https://getbootstrap.com/] - This helped me to use Bootstrap.
+- Bootstrap documentation: [https://getbootstrap.com/] - This helped me to use Bootstrap.
 
 ## Author
 
